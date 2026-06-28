@@ -50,16 +50,7 @@ This project was developed as part of the **IBM Data Analyst Professional Certif
 - Sales volume by car model revealed clear bestsellers, enabling data-driven decisions around inventory and marketing focus.
 - Sorting the column chart in ascending order made it straightforward to identify both top performers and dealerships needing attention.
 
----
-
-## 📁 Repository Structure
-
-```
-📦 car-sales-cognos-dashboard
- ┣ 📄 README.md
- ┗ 🖼️ dashboard_screenshot.png
-```
-
+  
 --- 
 Data Analytics enthusiast | IBM Data Analyst Professional Certificate  
 [LinkedIn](https://www.linkedin.com/in/caio-adriano/) <!-- substitua pelo seu link real -->
