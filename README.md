@@ -30,7 +30,7 @@ This project was developed as part of the **IBM Data Analyst Professional Certif
 
 ## 🖼️ Dashboard Preview
 
-![Car Sales Performance Dashboard](./dashboard_screenshot.png)
+![Car Sales Performance Dashboard](./dashboard.png)
 
 ---
 
