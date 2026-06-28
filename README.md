@@ -1,6 +1,6 @@
-# 🚗 Car Sales Performance Dashboard | IBM Cognos Analytics
+#  Car Sales Performance Dashboard | IBM Cognos Analytics
 
-## 📌 Project Overview
+## Project Overview
 
 Interactive Sales Performance Dashboard built with **IBM Cognos Analytics** to analyze car sales data across multiple dealerships. The goal was to transform raw sales data into clear, actionable visual insights — a key skill in data analysis.
 
@@ -8,7 +8,7 @@ This project was developed as part of the **IBM Data Analyst Professional Certif
 
 ---
 
-## 🎯 Business Questions Answered
+## Business Questions Answered
 
 - What is the total profit and quantity sold across all dealerships?
 - Which car models drive the highest sales volume?
@@ -28,7 +28,7 @@ This project was developed as part of the **IBM Data Analyst Professional Certif
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![Car Sales Performance Dashboard](./dashboard.png)
 
@@ -44,7 +44,7 @@ This project was developed as part of the **IBM Data Analyst Professional Certif
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Total profit reached **$78.4M**, with significant variation across dealer IDs, highlighting opportunities for performance improvement in underperforming locations.
 - Sales volume by car model revealed clear bestsellers, enabling data-driven decisions around inventory and marketing focus.
@@ -60,10 +60,6 @@ This project was developed as part of the **IBM Data Analyst Professional Certif
  ┗ 🖼️ dashboard_screenshot.png
 ```
 
----
-
-## 👤 Author
-
-**Caio Adriano Guedes Dos Santos**  
+--- 
 Data Analytics enthusiast | IBM Data Analyst Professional Certificate  
 [LinkedIn](https://www.linkedin.com/in/caio-adriano/) <!-- substitua pelo seu link real -->
